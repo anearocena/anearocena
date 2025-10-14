@@ -6,7 +6,7 @@
 
 ---
 
-> “Victory belongs to the most tenacious” - Roland Garros 🚀
+> “Victory belongs to the most tenacious” - Roland Garros 
 
 ---
 
