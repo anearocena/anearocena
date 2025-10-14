@@ -37,8 +37,8 @@ Implementation of a digital lock using a GAL PLD, BCD inputs, and a state machin
 ## ✨ Get in touch
 📍 Madrid, Spain  
 📫 [anearocenablanco@gmail.com](mailto:anearocenablanco@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com) *(add your link when ready)*  
+💼 [LinkedIn](https://www.linkedin.com/in/anearocenablanco/)   
 
 ---
 
-> “Aim for the stars, and you might just reach orbit.” 🚀
+> “Victory belongs to the most tenacious” Roland Garros🚀
