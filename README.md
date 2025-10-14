@@ -2,7 +2,7 @@
 
 🎓 I'm an **Aerospace Engineering student** specializing in **Aerospace Navigation Systems** at ETSIAE (UPM), Madrid.  
 🚀 Passionate about **GNSS, avionics, and aerospace defense technologies**.  
-💡 I am learning to combine technical projects with creativity — from Arduino experiments to space safety research.  
+💡 I am learning to apply my knowledge in a more practical way!
 
 ---
 
