@@ -1,17 +1,16 @@
-# Hey 👋, I'm Ane
+# Hey, I'm Ane!
 
-🎓 I'm an **Aerospace Engineering student** specializing in **Navigation and Avionics Systems** at ETSIAE (UPM), Madrid.  
+🎓 I'm an **Aerospace Engineering student** specializing in **Aerospace Navigation Systems** at ETSIAE (UPM), Madrid.  
 🚀 Passionate about **GNSS, avionics, and aerospace defense technologies**.  
-💡 I enjoy combining technical projects with creativity — from Arduino experiments to space safety research.  
+💡 I am learning to combine technical projects with creativity — from Arduino experiments to space safety research.  
 
 ---
 
 ## ⚡ A few quick facts
 
-- 🛰️ Currently developing a **6-digit electronic lock project** with a GAL G22V10 using WinCUPL and Proteus.  
 - 🌍 Interested in **GNSS spoofing & jamming**, **surveillance systems (ADS-B, MLAT, WAM, A-SMGCS)**, and **space safety**.  
 - 💬 Languages: English (C1), Spanish (native), and learning German 🇩🇪.  
-- 💻 Tools I use: MATLAB, CATIA V5, Proteus, WinCUPL, Excel, GitHub, and Notion.  
+- 💻 Tools I use: MATLAB, CATIA V5, Proteus, Arduino, Excel, GitHub.  
 - 🎯 My goal: work in **aerospace navigation and defense systems** in Europe.  
 
 ---
@@ -21,7 +20,8 @@
 📚 Learning more about:
 - GNSS security (spoofing, jamming, and mitigation)  
 - Avionics communication protocols  
-- Digital systems design and hardware logic  
+- Digital systems design
+- Geopolitics  
 
 ---
 
