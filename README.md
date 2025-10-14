@@ -6,6 +6,10 @@
 
 ---
 
+> “Victory belongs to the most tenacious” Roland Garros🚀
+
+---
+
 ## ⚡ A few quick facts
 
 - 🌍 Interested in **GNSS spoofing & jamming**, **surveillance systems (ADS-B, MLAT, WAM, A-SMGCS)**, and **space safety**.  
@@ -39,6 +43,3 @@ Implementation of a digital lock using a GAL PLD, BCD inputs, and a state machin
 📫 [anearocenablanco@gmail.com](mailto:anearocenablanco@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/anearocenablanco/)   
 
----
-
-> “Victory belongs to the most tenacious” Roland Garros🚀
